@@ -21,6 +21,7 @@
 - PwC - 上海/成都
 - Infosys - 上海
 - Cognizant - 上海
+- Capgimini 凯捷咨询 - 上海/昆山花桥
 - Tata - 上海
 - [AON Hewitt](http://www.aon.com) 上海
 
@@ -42,6 +43,7 @@
 - 奥哲 - 深圳
 - 思杰 Citrix - 南京
 - JetBrain - 上海
+
 
 ### 项目外包/IT外派 IT Outsourcing
 - TEKsystems  - 上海/广州/北京
