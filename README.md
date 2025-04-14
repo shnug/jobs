@@ -77,7 +77,7 @@
 
 ### 旅游 Travel
 - DidaTravel - 深圳 ![阿里云](https://img.shields.io/badge/阿里云-ff0c85.svg)
-- 同城艺龙 - 成都/苏州 ![腾讯云](https://img.shields.io/badge/腾讯云-569fff.svg)
+- 同程旅行 - 苏州/南京/北京/成都/广州/上海 ![腾讯云](https://img.shields.io/badge/腾讯云-569fff.svg)
 
 ### 电商 eCommerce
 - iHerb - 上海/台北/Irvine 
